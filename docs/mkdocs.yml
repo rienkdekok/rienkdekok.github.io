@@ -1,4 +1,6 @@
-site_name: MySite
-nav:
-    - Home: index.md
-theme: readthedocs
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
